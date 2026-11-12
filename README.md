@@ -2,6 +2,8 @@
 
 An open collection of AI skills and AI agents designed to accelerate productivity.
 
+Released under the [MIT License](./LICENSE).
+
 ### Agents
 
 <table border="1" bordercolor="#555">
