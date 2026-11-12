@@ -16,9 +16,15 @@ An open collection of AI skills and AI agents designed to accelerate productivit
   <tbody>
     <tr>
       <td>Agent</td>
+      <td>Brainstorming Partner</td>
+      <td>Turns rough prompts into structured, collaborative ideation with varied ideas, constructive critique, and useful next steps.</td>
+      <td><code>AI Accelerators/brainstorming-partner/agent.md</code></td>
+    </tr>
+    <tr>
+      <td>Agent</td>
       <td>Agent Evaluator</td>
       <td>Assesses agent instructions and declared integrations with a weighted rubric. Read-only; does not run the agent or integrations.</td>
-      <td><code>AI Evaluations/agent-evaluator/agent.md</code></td>
+      <td><code>AI Evaluators/agent-evaluator/agent.md</code></td>
     </tr>
   </tbody>
 </table>
@@ -39,7 +45,7 @@ An open collection of AI skills and AI agents designed to accelerate productivit
       <td>Skill</td>
       <td>Skill Evaluator</td>
       <td>Reviews AI skills with an evidence-based weighted rubric. Read-only; reports strengths, gaps, and an advisory recommendation.</td>
-      <td><code>AI Evaluations/skill-evaluator/skill.md</code></td>
+      <td><code>AI Evaluators/skill-evaluator/skill.md</code></td>
     </tr>
   </tbody>
 </table>
